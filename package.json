@@ -1,0 +1,20 @@
+{
+  "name": "my-first-mod",
+  "version": "1.0.0",
+  "description": "an npm training module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleygwilliams/my-first-mod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleygwilliams/my-first-mod/issues"
+  },
+  "homepage": "https://github.com/ashleygwilliams/my-first-mod#readme"
+}
